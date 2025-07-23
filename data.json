@@ -1,0 +1,42 @@
+
+{
+  "popular": [
+    {
+      "name": "1XСтавка",
+      "logo": "https://via.placeholder.com/100x30?text=1X",
+      "rating": "4.9",
+      "reviews": 325,
+      "bonus": "25K ₽"
+    },
+    {
+      "name": "Фонбет",
+      "logo": "https://via.placeholder.com/100x30?text=Fonbet",
+      "rating": "4.8",
+      "reviews": 123,
+      "bonus": "101K ₽"
+    },
+    {
+      "name": "LEON",
+      "logo": "https://via.placeholder.com/100x30?text=LEON",
+      "rating": "4.7",
+      "reviews": 325,
+      "bonus": "10K ₽"
+    }
+  ],
+  "editor": [
+    {
+      "name": "Winline",
+      "logo": "https://via.placeholder.com/100x30?text=Winline",
+      "rating": "4.6",
+      "reviews": 43,
+      "bonus": "Нет бонуса"
+    },
+    {
+      "name": "Мелбет",
+      "logo": "https://via.placeholder.com/100x30?text=Мелбет",
+      "rating": "5.0",
+      "reviews": 34,
+      "bonus": "2.5K ₽"
+    }
+  ]
+}
